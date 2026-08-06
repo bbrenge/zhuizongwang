@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bbrenge.github.io/zhuizongwang/sitemap.xml
